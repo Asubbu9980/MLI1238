@@ -1,0 +1,35 @@
+
+
+.feed-form{
+  padding: 15px ;
+  
+  border: 1px solid gainsboro;
+}
+
+#navLink1{
+  color: white;
+}
+#navLink2{
+  color: white;
+}
+#navLink3{
+  color: white;
+}
+#navBrand{
+  color: white;
+}
+#hambourger{
+  background-color: aliceblue;
+  
+}
+
+.active {
+  color: rgb(232, 62, 15) !important;
+}
+
+body{
+  background-color: #f5f5f5;
+}
+
+
+ 
